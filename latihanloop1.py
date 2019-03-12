@@ -5,4 +5,3 @@ for i in range(5) :
         z += ' * '
     print(z)
     z = ''
-
